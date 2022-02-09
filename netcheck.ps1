@@ -38,7 +38,7 @@ $AcceptableLocalPacketLoss=0 # Measured in %
 $AcceptableLocalLatency=5 # Measured in milliseconds
 $AcceptableLocalJitter=5 # Measured in milliseconds
 $AcceptableRemotePacketLoss=0 # Measured in %
-$AcceptableRemoteLatency=20 # Measured in milliseconds
+$AcceptableRemoteLatency=35 # Measured in milliseconds
 $AcceptableRemoteJitter=10 # Measured in milliseconds
 
 # Do not modify - Internal variable to tracks if any minimum acceptable criteria is not met
